@@ -7,6 +7,7 @@ My name is Alexander. I'm looking forward full stack web development.
 + Node.js
 + Angular
 + AngularJS
++ Ubuntu
 
 ### Words I also know about:
-> typescript gulp jade stylus scss expressjs
+> typescript gulp jade stylus scss expressjs electron meteor
