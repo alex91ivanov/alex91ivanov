@@ -11,3 +11,6 @@ My name is Alexander. I'm looking forward full stack web development.
 
 ### Words I also know about:
 > typescript gulp jade stylus scss expressjs electron meteor
+
+---
+https://stackoverflow.com/cv/alex91ivanov
