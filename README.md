@@ -10,7 +10,7 @@ My name is Alexander. I'm looking forward full stack web development.
 + Ubuntu
 
 ### Words I also know about:
-> typescript gulp jade stylus scss expressjs electron meteor
+> typescript gulp jade stylus scss expressjs electron meteor babel etc.
 
 ---
-https://stackoverflow.com/cv/alex91ivanov
+[https://stackoverflow.com/cv/alex91ivanov]
