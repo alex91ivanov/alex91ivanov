@@ -16,6 +16,6 @@ My name is Alexander. I'm looking forward full stack web development.
 + alex91ivanov@gmail.com
 + +7 9663404438
 + telegram/whatsapp/viber/google duo - *+7 9663404438*
-+ skype - *live:alex91ivanov*
++ *live:alex91ivanov* (skype)
 ---
 [https://stackoverflow.com/cv/alex91ivanov]
