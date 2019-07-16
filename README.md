@@ -9,8 +9,13 @@ My name is Alexander. I'm looking forward full stack web development.
 + AngularJS
 + Ubuntu
 
-### Words I also know about:
+#### Words I also know about:
 > typescript gulp jade stylus scss expressjs electron meteor babel etc.
 
+#### Contact info
++ alex91ivanov@gmail.com
++ +7 9663404438
++ telegram/whatsapp/viber/google duo - **+7 9663404438**
++ skype - **live:alex91ivanov**
 ---
 [https://stackoverflow.com/cv/alex91ivanov]
