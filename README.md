@@ -19,4 +19,5 @@ My name is Alexander. I'm looking forward full stack web development.
 + *live:alex91ivanov* (skype)
 
 ---
-[https://stackoverflow.com/cv/alex91ivanov]
+
+<a href="https://stackoverflow.com/cv/alex91ivanov">https://stackoverflow.com/cv/alex91ivanov</a>
